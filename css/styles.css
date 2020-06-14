@@ -2,7 +2,7 @@
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
 
-body {
+.back-body {
     background-color: #f3f4fb;
 }
 

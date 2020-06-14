@@ -5,6 +5,7 @@ const PageHead = () => {
   return (
     <Head>
         <title>Eduardo Cintra - Fullstack Developer</title>
+        <meta name="description" content="Resume and portfolio of Eduardo Cintra"/>
         <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png" />
         <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png" />
         <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png" />
