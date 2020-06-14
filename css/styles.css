@@ -6,6 +6,11 @@ body {
     background-color: #f3f4fb;
 }
 
-div .container {
-    background: url("/images/back-network.png") right top no-repeat;
-}
+@responsive {
+    .bg-network-left{
+        background: url("/images/back-network.png") top left no-repeat;
+    }
+    .bg-network-right{
+        background: url("/images/back-network.png") top right no-repeat;
+    }
+  }

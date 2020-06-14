@@ -7,7 +7,6 @@ class MyApp extends App {
       const { Component, pageProps } = this.props
       return (
         <React.Fragment>
-          <title jsx global>Eduardo Cintra - Fullstack Developer</title>
           <style jsx global>
             {`@import url(https://fonts.googleapis.com/css2?family=Titillium+Web:wght@400;700&display=swap)`}
           </style>
