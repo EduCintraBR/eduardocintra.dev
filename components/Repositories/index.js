@@ -1,14 +1,14 @@
 import React from 'react'
 import { FaStar, FaLaptopCode } from 'react-icons/fa'
 
-const Index = ({props}) => {
+const Index = ({ repos, title1 }) => {
     return (
         <section>
             <span>
-                <h3 className="text-4xl pt-12 pb-8 text-center text-red-600 uppercase">Meus repositórios</h3>
+                <h3 className="text-4xl pt-12 pb-8 text-center font-bold text-red-600 uppercase">{title1}</h3>
             </span>
             <div className="md:grid lg:grid-cols-3 lg:pb-8 pb-2">
-                {props.repos.map(res => {
+                {repos.map(res => {
                     return (
                         <section key={`repos-${res.id}`} className="rounded-lg bg-white px-8 mx-2 py-4 m-1 hover:shadow-lg">
                             <h3 className="text-lg font-bold">
