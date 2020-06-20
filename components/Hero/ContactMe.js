@@ -8,13 +8,13 @@ const ContactMe = ({ title1, title2 }) => {
                 {title1}
             </h3>
             <p className="flex justify-between">
-                <a href="https://www.linkedin.com/in/eduardo-cintra-652283127/" className="hover:opacity-75">
+                <a href="https://www.linkedin.com/in/educintrabr/" className="hover:opacity-75">
                     <FaLinkedin size={64}/>
                 </a>
                 <a href="https://github.com/educintrabr" className="hover:opacity-75">
                     <FaGithub size={64}/>
                 </a>
-                <a href="https://www.facebook.com/eduardo.cintrasccp/" className="hover:opacity-75">
+                <a href="https://www.facebook.com/educintrabr/" className="hover:opacity-75">
                     <FaFacebookSquare size={64}/>
                 </a>
                 <a href="https://www.instagram.com/educintrabr/" className="hover:opacity-75">

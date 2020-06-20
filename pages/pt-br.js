@@ -50,7 +50,7 @@ const Index = ({ repos }) => {
                 />
             </main>
             <Footer 
-                title1={"Este site foi desenvolvido com NextJS + SSR (Server Side Rendering) + Vercel (platforma)"}
+                title1={"Este site foi desenvolvido com NextJS + SSR (Server Side Rendering) + Vercel (como plataforma)"}
                 title2={"Você pode encontrar o código fonte deste website em:"}
             />
         </div>
