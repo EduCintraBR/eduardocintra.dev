@@ -14,22 +14,12 @@ These instructions will get you a copy of the project up and running on your loc
 NodeJs and NPM installed in your machine.
 
 ```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
 npm installed
 npm run dev
 ```
 ## Deployment
 
-This project can be deployed using [Vercel](https://vercel.com/) (without extra configuration)
+This project can be deployed using [Vercel](https://vercel.com/) (without extra configuration).
 
 ## Built With
 
@@ -43,8 +33,8 @@ This project can be deployed using [Vercel](https://vercel.com/) (without extra 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
-* This project was build during the classes of Fullstack Master from [Devpleno](https://devpleno.com)
+* This project was build during the classes of Fullstack Master from [Devpleno](https://devpleno.com).
