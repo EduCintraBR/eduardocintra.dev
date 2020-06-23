@@ -7,7 +7,6 @@ import WhatIdo from '../components/ContentPage/WhatIdo'
 import Education from '../components/ContentPage/Education'
 import Repositories from '../components/Repositories'
 import SwitchLanguage from '../components/SwitchLanguage'
-import getUser from '../utils/getUser'
 
 
 const Index = ({ repos }) => {
@@ -57,7 +56,8 @@ const Index = ({ repos }) => {
 }
 
 export async function getServerSideProps(context) {
-    const { repo, me } = await getUser('educintrabr')
+    const data = await fetch(`${process.env.API_URL}/api/getUser`)
+    const { repo, me } = await data.json()
 
     return {
         props: {
