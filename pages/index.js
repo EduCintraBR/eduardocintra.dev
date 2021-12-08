@@ -24,7 +24,7 @@ const Index = ({ repos }) => {
                 <Summary 
                     title1={
                             `Hello, welcome to my resume. My name is Eduardo and I'm a Brazilian developer who lives in the south of Minas Gerais. 
-                            I'm 23 years old and I have a graduation degree in computer information systems. 
+                            I'm 25 years old and I have a graduation degree in computer information systems. 
                             I love technology and I'm looking for an opportunity to enter the development market, for that I always study and practice with my projects. 
                             I wish to become a freelancer developer or work in a great technology company. I hope you'll like my resume.`
                         }
