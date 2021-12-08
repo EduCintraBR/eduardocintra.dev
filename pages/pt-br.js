@@ -25,16 +25,14 @@ const Index = ({ repos }) => {
                     title1={
                         `Olá, bem vindo a minha página! Meu nome é Eduardo sou natural de São Sebastião do Paraíso sul de Minas Gerais, tenho 25 anos
                         , sou bacharel em sistemas de informação e apaixonado por tecnologia. Busco uma oportunidade de entrar e me estabelecer no 
-                        mercado de desenvolvimento, pra isso estou estudando sempre novas tecnologias e implementando projetos próprios. Desejo me tornar 
-                        um freelancer ou trabalhar em uma grande empresa de tecnologia, enfim espero que goste do meu portfólio.`
+                        mercado de desenvolvimento, pra isso estou estudando sempre novas tecnologias e implementando projetos próprios. Enfim espero que goste do meu portfólio.`
                         }
                 />
                 <WhatIdo 
                     title1={"O que eu faço"}
                     title2={
-                            `Desde 2018 trabalhando na área de TI como suporte técnico e desenvolvedor Delphi e atualmente como desenvolvedor pleno Visual Basic 6. 
-                            Entusiasta e estudante da stack JavaScript (NodeJs, ReactJs, NextJs, etc.), estou em processo para me tornar um desenvolvedor Fullstack,
-                            atualmente estou cursando o Fullstack Master da `
+                            `Desde 2018 eu trabalho na area de TI,  já trabalhei com muitas linguagens (Delphi, VB6, etc.) e trabalho atualmente como desenvolvedor .NET Core. 
+                            Entusiasta e estudante da stack JavaScript (NodeJs, ReactJs, NextJs, etc.) e a stack .NET Core. Estou em processo para me tornar um desenvolvedor Fullstack`
                         }
                 />
                 <Education 

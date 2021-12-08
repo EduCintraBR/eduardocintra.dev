@@ -26,15 +26,15 @@ const Index = ({ repos }) => {
                             `Hello, welcome to my resume. My name is Eduardo and I'm a Brazilian developer who lives in the south of Minas Gerais. 
                             I'm 25 years old and I have a graduation degree in computer information systems. 
                             I love technology and I'm looking for an opportunity to enter the development market, for that I always study and practice with my projects. 
-                            I wish to become a freelancer developer or work in a great technology company. I hope you'll like my resume.`
+                            I hope you'll like my resume.`
                         }
                 />
                 <WhatIdo 
                     title1={"what i do"}
                     title2={
-                            `I'm working with technology since 2018 as a support technical and Delphi developer and currently as a Visual Basic developer. 
-                            I am an enthusiastic and student of Javascript stack (NodeJs, ReactJs, NextJs, etc.). 
-                            I am in a process to be a fullstack developer, currently, I'm studying the Fullstack Master of`
+                            `I'm working with technology since 2018, I worked with many languages (Delphi, VB6, etc.) and currently I work as a .NET Core developer. 
+                            I am an enthusiastic and student of Javascript stack (NodeJs, ReactJs, NextJs, etc.) and .NET stack. 
+                            I am in a process to be a fullstack developer.`
                         }
                 />
                 <Education 

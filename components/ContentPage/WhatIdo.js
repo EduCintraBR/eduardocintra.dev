@@ -8,7 +8,7 @@ const WhatIdo = ({ title1, title2 }) => {
             </span>
             <div className="bg-white rounded-lg shadow-lg py-12 mx-4 px-8">
                 <p className="text-2xl">
-                    { title2 } <a href="https://devpleno.com/" className="font-bold">Devpleno.</a>
+                    { title2 }
                 </p>
             </div>
         </section>
